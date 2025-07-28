@@ -105,8 +105,7 @@ Below is the database schema showcasing relationships between all tables:
 ### Financial Insights  
 - [Top 3 Values of Invoice](queries/Top%203%20Values%20of%20Invoice.sql)  
 
-### Operational & Schema Utilities  
-- [Table Creation Queries](queries/Table%20Creation%20Queries.sql)  
+### Operational Utilities  
 - [Senior Most Employee](queries/Senior%20Most%20Employee.sql)  
 
 </details>
