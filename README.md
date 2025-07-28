@@ -161,4 +161,5 @@ Neon-Bison-Music-Band-Analysis/
 <summary><strong>Conclusion</strong></summary>
 
 This project showcases how relational database analysis can drive actionable music industry strategies. By analyzing purchase patterns, customer geography, genre preferences, and artist performance, bands like Neon Bison can make data-driven decisions for touring, pricing, and promotion.
+
 </details>
