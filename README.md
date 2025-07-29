@@ -321,18 +321,74 @@ Below is the database schema showcasing relationships between all tables:
 <details>
 <summary><strong>Folder Structure</strong></summary>
 
-bash
-Neon-Bison-Music-Band-Analysis/
-├── data/                  # Raw CSV files
-├── queries/               # SQL scripts per business question
-├── validation/            # Data loading video
-│   └── data_loading.mp4
-├── visuals/               # Charts, plots, diagrams
-├── outputs/               # Query result CSVs/Markdowns
-├── schema_diagram.png     # ER diagram
-└── README.md              # This file
+```bash
+music-sales-analysis/
+├── data/                               # Raw CSV files (source tables)
+│   ├── album.csv
+│   ├── artist.csv
+│   ├── customer.csv
+│   ├── employee.csv
+│   ├── genre.csv
+│   ├── invoice.csv
+│   ├── invoice_line.csv
+│   ├── media_type.csv
+│   ├── playlist.csv
+│   ├── playlist_track.csv
+│   └── track.csv
+│
+├── queries/                            # SQL scripts answering business questions
+│   ├── 01_Genre_Highest_Revenue.sql
+│   ├── 02_Genre_High_Value_Low_Volume.sql
+│   ├── 03_Most_Purchased_Tracks.sql
+│   ├── 04_Songs_Longer_Than_Average.sql
+│   ├── 05_All_Rock_Music_Listeners.sql
+│   ├── 06_Albums_Highest_Revenue_Per_Track.sql
+│   ├── 07_Artists_Highest_Revenue.sql
+│   ├── 08_Top10_Rock_Artists_By_Tracks.sql
+│   ├── 09_Artists_Most_Invoice_Appearances.sql
+│   ├── 10_Customer_Spending_Per_Artist.sql
+│   ├── 11_Top_Spending_Customers.sql
+│   ├── 12_Highest_Spending_Customers.sql
+│   ├── 13_Customers_Single_vs_Multiple_Purchases.sql
+│   ├── 14_Top_Spenders_By_Country.sql
+│   ├── 15_Top_Spenders_Per_Country.sql
+│   ├── 16_Most_Popular_Genre_Per_Country.sql
+│   ├── 17_Country_With_Most_Invoices.sql
+│   ├── 18_Country_Wise_Average_Revenue.sql
+│   ├── 19_Best_Customers_By_City.sql
+│   ├── 20_Top_3_Invoice_Values.sql
+│   └── 21_Senior_Most_Employee.sql
+│
+├── outputs/                            # Visual output (JPG) for each query
+│   ├── Q1.jpg
+│   ├── Q2.jpg
+│   ├── Q3.jpg
+│   ├── Q4.jpg
+│   ├── Q5.jpg
+│   ├── Q6.jpg
+│   ├── Q7.jpg
+│   ├── Q8.jpg
+│   ├── Q9.jpg
+│   ├── Q10.jpg
+│   ├── Q11.jpg
+│   ├── Q12.jpg
+│   ├── Q13.jpg
+│   ├── Q14.jpg
+│   ├── Q15.jpg
+│   ├── Q16.jpg
+│   ├── Q17.jpg
+│   ├── Q18.jpg
+│   ├── Q19.jpg
+│   ├── Q20.jpg
+│   └── Q21.jpg
+│
+├── validation/                         # Data setup & validation resources
+│   ├── Notebook File for Data Upload.ipynb
+│   └── Python Automated Table Creation & Data Fill Up on Jupyter Notebook.mp4
+│
+├── schema_diagram.png                  # Database schema/ER diagram
+└── README.md                           # Project overview and documentation
 
-</details>
 
 ---
 
