@@ -198,7 +198,7 @@ Below is the database schema showcasing relationships between all tables:
 <details>
 <summary><strong>Top Spenders From Each Country</strong></summary>
 
-![Top Spenders From Each Country](outputs/Q13.jpg)
+![Top Spenders From Each Country](outputs/Q14.jpg)
 
 </details>
 
