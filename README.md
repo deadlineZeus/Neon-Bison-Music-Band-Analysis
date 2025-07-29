@@ -1,6 +1,23 @@
 # Neon Bison Music Band Analysis
 
-A comprehensive PostgreSQL-based analytics project for Neon Bison, a fictional American music band. Using real-world music store data, this project uncovers patterns in customer behavior, genre popularity, geographic spending, and revenue optimization — aimed at guiding the band’s next concert tour planning. This is a completely stand-alone project created for the purpose of demonstrating skills to solve business problems and acquire technical mastery.
+A comprehensive PostgreSQL-based analytics project for **Neon Bison**, a fictional American music band. Using real-world music store data, this project uncovers patterns in customer behavior, genre popularity, geographic spending, and revenue optimization — aimed at guiding the band’s next concert tour planning. This is a completely stand-alone project created for the purpose of demonstrating skills to solve business problems and acquire technical mastery.
+
+---
+
+<details>
+<summary><strong>Table of Contents</strong></summary>
+
+- [Project Overview](#project-overview)  
+- [Data Loading](#data-loading)  
+- [Dataset Description](#dataset-description)  
+- [Entity-Relationship Diagram](#entity-relationship-diagram)  
+- [Business Questions Answered](#business-questions-answered)  
+- [Key Insights](#key-insights)  
+- [Technical Skills Demonstrated](#technical-skills-demonstrated)  
+- [Folder Structure](#folder-structure)  
+- [Conclusion](#conclusion)  
+
+</details>
 
 ---
 
@@ -16,22 +33,6 @@ The findings can inform setlist decisions, marketing geography, pricing strategi
 - What revenue patterns exist across markets and media  
 
 All queries are written in PostgreSQL.
-
----
-
-<details>
-<summary><strong>Table of Contents</strong></summary>
-
-- [Data Loading](#data-loading)  
-- [Dataset Description](#dataset-description)  
-- [Entity-Relationship Diagram](#entity-relationship-diagram)  
-- [Business Questions Answered](#business-questions-answered)  
-- [Key Insights](#key-insights)  
-- [Technical Skills Demonstrated](#technical-skills-demonstrated)  
-- [Folder Structure](#folder-structure)  
-- [Conclusion](#conclusion)  
-
-</details>
 
 ---
 
@@ -179,3 +180,4 @@ Neon-Bison-Music-Band-Analysis/
 This project showcases how relational database analysis can drive actionable music industry strategies. By analyzing purchase patterns, customer geography, genre preferences, and artist performance, bands like **Neon Bison** can make data-driven decisions for touring, pricing, and promotion.
 
 </details>
+
