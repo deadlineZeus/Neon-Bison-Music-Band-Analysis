@@ -137,29 +137,29 @@ Below is the database schema showcasing relationships between all tables:
 </details>
 
 ### Artist & Album Performance  
-- [Albums with Highest Revenue Per Track](queries/Albums%20with%20Highest%20Revenue%20Per%20Track.sql)  
-- [Artists With Highest Revenue](queries/Artists%20With%20Highest%20Revenue.sql)  
-- [Top 10 Rock artists by song numbers](queries/Top%2010%20Rock%20artists%20by%20song%20numbers.sql)  
-- [Artists with Most Number of Appearences in Invoices](queries/Artists%20with%20Most%20Number%20of%20Appearences%20in%20Invoices.sql)  
-- [Customer Spending on Each Artist](queries/Customer%20Spending%20on%20Each%20Artist.sql)
+- [Albums with Highest Revenue Per Track](outputs/Q6.jpg)  
+- [Artists With Highest Revenue](outputs/Q7.jpg)  
+- [Top 10 Rock artists by song numbers](outputs/Q8.jpg)  
+- [Artists with Most Number of Appearences in Invoices](outputs/Q9.jpg)  
+- [Customer Spending on Each Artist](outputs/Q10.jpg)
 
 ### Customer Insights & Segmentation  
-- [Highest Spending Customers Across All Time](queries/Highest%20Spending%20Customers%20Across%20All%20Time.sql)  
-- [Customers with Single or Multiple Purchases](queries/Customers%20with%20Single%20or%20Multiple%20Purchases.sql)  
-- [Top Spenders From Each Country](queries/Top%20Spenders%20From%20Each%20Country.sql)
+- [Highest Spending Customers Across All Time](outputs/Q11.jpg)  
+- [Customers with Single or Multiple Purchases](outputs/Q12.jpg)  
+- [Top Spenders From Each Country](outputs/Q13.jpg)
 
 ### Geographic Market Analysis  
-- [Country Wise Top Spenders on Music](queries/Country%20Wise%20Top%20Spenders%20on%20Music.sql)  
-- [Country Wise Most Popular Genre](queries/Country%20Wise%20Most%20Popular%20Genre.sql)  
-- [Country With Most Invoices](queries/Country%20With%20Most%20Invoices.sql)  
-- [Country Wise Average Revenue](queries/Country%20Wise%20Average%20Revenue.sql)  
-- [City With The Best Customers](queries/City%20With%20The%20Best%20Customers.sql)
+- [Country Wise Top Spenders on Music](outputs/Q14.jpg)  
+- [Country Wise Most Popular Genre](outputs/Q16.jpg)  
+- [Country With Most Invoices](outputs/Q17.jpg)  
+- [Country Wise Average Revenue](outputs/Q18.jpg)  
+- [City With The Best Customers](qoutputs/Q19.jpg)
 
 ### Financial Insights  
-- [Top 3 Values of Invoice](queries/Top%203%20Values%20of%20Invoice.sql)
+- [Top 3 Values of Invoice](outputs/Q20.jpg)
 
 ### Operational Utilities  
-- [Senior Most Employee in the band](queries/Senior%20Most%20Employee.sql)
+- [Senior Most Employee in the band](outputs/Q21.jpg)
 
 </details>
 
