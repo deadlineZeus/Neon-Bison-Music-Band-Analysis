@@ -14,9 +14,9 @@ A comprehensive PostgreSQL-based analytics project for *Neon Bison*, a fictional
 - [Business Questions Answered](#business-questions-answered)  
 - [Key Insights](#key-insights)  
 - [Strategic Recommendations](#strategic-recommendations)  
-- [Technical Skills Demonstrated](#technical-skills-demonstrated)  
-- [Folder Structure](#folder-structure)  
+- [Technical Skills Demonstrated](#technical-skills-demonstrated)
 - [Conclusion](#conclusion)  
+- [Folder Structure](#folder-structure)  
 
 </details>
 
