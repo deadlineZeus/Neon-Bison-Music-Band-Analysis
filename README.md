@@ -1,6 +1,6 @@
 # Neon Bison Music Band Analysis
 
-A comprehensive PostgreSQL‑based analytics project for Neon Bison, a fictional American music band. Using real‑world music store data, this project uncovers patterns in customer behavior, genre popularity, geographic spending, and revenue optimization — aimed at guiding the band’s next concert tour planning. This is a completely stand‑alone project created for the purpose of demonstrating skills to solve business problems and acquire technical mastery.
+A comprehensive PostgreSQL-based analytics project for Neon Bison, a fictional American music band. Using real-world music store data, this project uncovers patterns in customer behavior, genre popularity, geographic spending, and revenue optimization — aimed at guiding the band’s next concert tour planning. This is a completely stand-alone project created for the purpose of demonstrating skills to solve business problems and acquire technical mastery.
 
 ---
 
@@ -19,7 +19,8 @@ All queries are written in PostgreSQL.
 
 ---
 
-## Table of Contents
+<details>
+<summary><strong>Table of Contents</strong></summary>
 
 - [Data Loading](#data-loading)  
 - [Dataset Description](#dataset-description)  
@@ -31,16 +32,23 @@ All queries are written in PostgreSQL.
 - [How to Run](#how-to-run)  
 - [Conclusion](#conclusion)  
 
+</details>
+
 ---
 
-## Data Loading
+<details>
+<summary><strong>Data Loading</strong></summary>
 
-This section demonstrates how the dataset was imported and validated for analysis. The video below walks through loading the CSV files into PostgreSQL and performing integrity checks.
+This section demonstrates how the dataset was imported and validated for analysis. The following video walks through the data loading process, including setting up the PostgreSQL database and importing the CSV files.
+
+> 📁 `validation/data_loading.mp4`
 
 <video width="100%" height="400" controls>
   <source src="validation/data_loading.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
+
+</details>
 
 ---
 
@@ -123,11 +131,11 @@ Below is the database schema showcasing relationships between all tables:
 <details>
 <summary><strong>Key Insights</strong></summary>
 
-- Rock dominates in most English‑speaking countries; Latin is big in Brazil.  
+- Rock dominates in most English-speaking countries; Latin is big in Brazil.  
 - The USA leads in both revenue and invoice volume, followed by Canada and Brazil.  
-- Luís Gonçalves is the highest‑spending customer at over \$49.  
-- Queen and Led Zeppelin top the charts in artist revenue.  
-- Cities like São Paulo and Edmonton have high average customer spend.  
+- Luís Gonçalves is the highest-spending customer at over \$49.  
+- Queen and Led Zeppelin top the charts in artist revenue.  
+- Cities like São Paulo and Edmonton have high average customer spend.  
 - Some albums earn significantly more per track than others, showing commercial efficiency.
 
 </details>
@@ -137,26 +145,27 @@ Below is the database schema showcasing relationships between all tables:
 <details>
 <summary><strong>Technical Skills Demonstrated</strong></summary>
 
-- Multi‑table joins using `INNER JOIN`, `LEFT JOIN`  
+- Multi-table joins using `INNER JOIN`, `LEFT JOIN`  
 - Aggregation and grouping (`GROUP BY`, `HAVING`)  
 - Use of window functions (`ROW_NUMBER`, `RANK`)  
 - Use of Common Table Expressions (CTEs) for modular, readable queries  
 - Analytical techniques like segmentation, ranking, and trend analysis  
-- Formatting outputs for clarity using rounding and sorting
+- Formatting outputs for clarity using rounding and sorting  
 
 </details>
 
 ---
 
-## Folder Structure
+<details>
+<summary><strong>Folder Structure</strong></summary>
 
-```text
+```bash
 Neon-Bison-Music-Band-Analysis/
 ├── data/                  # Raw CSV files
 ├── queries/               # SQL scripts per business question
-├── validation/            # Data-loading video for validation
+├── validation/            # Data loading video
 │   └── data_loading.mp4
-├── visuals/               # Optional charts, plots, ER diagrams
-├── outputs/               # SQL query results as CSV/Markdown
-├── schema_diagram.png     # Entity‑relationship schema
-└── README.md              # This documentation file
+├── visuals/               # Charts, plots, diagrams
+├── outputs/               # Query result CSVs/Markdowns
+├── schema_diagram.png     # ER diagram
+└── README.md              # This file
