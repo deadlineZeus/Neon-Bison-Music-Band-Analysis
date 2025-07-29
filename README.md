@@ -108,7 +108,7 @@ Below is the database schema showcasing relationships between all tables:
 <details>
 <summary><strong>Business Questions Answered</strong></summary>
 
-### Genre & Track Trends <sub><em>(Click on the question to see the answers directly)</em></sub>
+### Genre & Track Trends <sub><em> (Click on the question to see the answers directly)</em></sub>
 
 <div style="padding-left: 5em;">
   <details>
@@ -141,7 +141,7 @@ Below is the database schema showcasing relationships between all tables:
   </details>
 </div>
 
-### Artist & Album Performance <sub><em>(Click on the question to see the answers directly)</em></sub>
+### Artist & Album Performance <sub><em> (Click on the question to see the answers directly)</em></sub>
 
 <div style="padding-left: 5em;">
   <details>
@@ -174,7 +174,7 @@ Below is the database schema showcasing relationships between all tables:
   </details>
 </div>
 
-### Customer Insights & Segmentation <sub><em>(Click on the question to see the answers directly)</em></sub>
+### Customer Insights & Segmentation <sub><em> (Click on the question to see the answers directly)</em></sub>
 
 <div style="padding-left: 5em;">
   <details>
@@ -195,7 +195,7 @@ Below is the database schema showcasing relationships between all tables:
   </details>
 </div>
 
-### Geographic Market Analysis <sub><em>(Click on the question to see the answers directly)</em></sub>
+### Geographic Market Analysis <sub><em> (Click on the question to see the answers directly)</em></sub>
 
 <div style="padding-left: 5em;">
   <details>
@@ -228,7 +228,7 @@ Below is the database schema showcasing relationships between all tables:
   </details>
 </div>
 
-### Financial Insights <sub><em>(Click on the question to see the answers directly)</em></sub>
+### Financial Insights <sub><em> (Click on the question to see the answers directly)</em></sub>
 
 <div style="padding-left: 5em;">
   <details>
@@ -237,7 +237,7 @@ Below is the database schema showcasing relationships between all tables:
   </details>
 </div>
 
-### Operational Utilities <sub><em>(Click on the question to see the answers directly)</em></sub>
+### Operational Utilities <sub><em> (Click on the question to see the answers directly)</em></sub>
 
 <div style="padding-left: 5em;">
   <details>
