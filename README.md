@@ -268,12 +268,12 @@ Below is the database schema showcasing relationships between all tables:
 <details>
 <summary><strong>Key Insights</strong></summary>
 
-- Rock dominates in most English-speaking countries; Latin thrives in Brazil.  
+-`Rock` dominates in most English-speaking countries; `Latin` thrives in Brazil.  
 - The USA leads in both total revenue and invoice volume, followed by Canada and Brazil.  
-- Queen and Led Zeppelin top the charts in artist revenue generation.  
-- Cities like São Paulo and Edmonton show notably high average customer spend.  
+- `Queen` and `Led Zeppelin` top the charts in artist revenue generation.  
+- Cities like `São Paulo` and `Edmonton` show notably high average customer spend.  
 - Some albums like *Cake: B-Sides and Rarities* yield significantly higher revenue per track, showcasing strong commercial efficiency.  
-- The Prague market, particularly through customers like František Wichterlová, reveals unexpectedly high spend potential despite smaller invoice volume.
+- The `Prague` market, particularly through customers like František Wichterlová, reveals unexpectedly high spend potential despite smaller invoice volume.
 
 </details>
 
