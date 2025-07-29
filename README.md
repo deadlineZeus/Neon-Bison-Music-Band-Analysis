@@ -137,31 +137,117 @@ Below is the database schema showcasing relationships between all tables:
 </details>
 
 ### Artist & Album Performance  
-- [Albums with Highest Revenue Per Track](outputs/Q6.jpg)  
-- [Artists With Highest Revenue](outputs/Q7.jpg)  
-- [Top 10 Rock artists by song numbers](outputs/Q8.jpg)  
-- [Artists with Most Number of Appearences in Invoices](outputs/Q9.jpg)  
-- [Customer Spending on Each Artist](outputs/Q10.jpg)
+<details>
+<summary><strong>Albums with Highest Revenue Per Track</strong></summary>
 
-### Customer Insights & Segmentation  
-- [Highest Spending Customers Across All Time](outputs/Q11.jpg)  
-- [Customers with Single or Multiple Purchases](outputs/Q12.jpg)  
-- [Top Spenders From Each Country](outputs/Q13.jpg)
-
-### Geographic Market Analysis  
-- [Country Wise Top Spenders on Music](outputs/Q14.jpg)  
-- [Country Wise Most Popular Genre](outputs/Q16.jpg)  
-- [Country With Most Invoices](outputs/Q17.jpg)  
-- [Country Wise Average Revenue](outputs/Q18.jpg)  
-- [City With The Best Customers](qoutputs/Q19.jpg)
-
-### Financial Insights  
-- [Top 3 Values of Invoice](outputs/Q20.jpg)
-
-### Operational Utilities  
-- [Senior Most Employee in the band](outputs/Q21.jpg)
+![Albums with Highest Revenue Per Track](outputs/Q6.jpg)
 
 </details>
+
+<details>
+<summary><strong>Artists With Highest Revenue</strong></summary>
+
+![Artists With Highest Revenue](outputs/Q7.jpg)
+
+</details>
+
+<details>
+<summary><strong>Top 10 Rock artists by song numbers</strong></summary>
+
+![Top 10 Rock artists by song numbers](outputs/Q8.jpg)
+
+</details>
+
+<details>
+<summary><strong>Artists with Most Number of Appearences in Invoices</strong></summary>
+
+![Artists with Most Number of Appearences in Invoices](outputs/Q9.jpg)
+
+</details>
+
+<details>
+<summary><strong>Customer Spending on Each Artist</strong></summary>
+
+![Customer Spending on Each Artist](outputs/Q10.jpg)
+
+</details>
+
+### Customer Insights & Segmentation  
+<details>
+<summary><strong>Highest Spending Customers Across All Time</strong></summary>
+
+![Highest Spending Customers Across All Time](outputs/Q11.jpg)
+
+</details>
+
+<details>
+<summary><strong>Customers with Single or Multiple Purchases</strong></summary>
+
+![Customers with Single or Multiple Purchases](outputs/Q12.jpg)
+
+</details>
+
+<details>
+<summary><strong>Top Spenders From Each Country</strong></summary>
+
+![Top Spenders From Each Country](outputs/Q13.jpg)
+
+</details>
+
+### Geographic Market Analysis  
+<details>
+<summary><strong>Country Wise Top Spenders on Music</strong></summary>
+
+![Country Wise Top Spenders on Music](outputs/Q14.jpg)
+
+</details>
+
+<details>
+<summary><strong>Country Wise Most Popular Genre</strong></summary>
+
+![Country Wise Most Popular Genre](outputs/Q16.jpg)
+
+</details>
+
+<details>
+<summary><strong>Country With Most Invoices</strong></summary>
+
+![Country With Most Invoices](outputs/Q17.jpg)
+
+</details>
+
+<details>
+<summary><strong>Country Wise Average Revenue</strong></summary>
+
+![Country Wise Average Revenue](outputs/Q18.jpg)
+
+</details>
+
+<details>
+<summary><strong>City With The Best Customers</strong></summary>
+
+![City With The Best Customers](outputs/Q19.jpg)
+
+</details>
+
+### Financial Insights  
+<details>
+<summary><strong>Top 3 Values of Invoice</strong></summary>
+
+![Top 3 Values of Invoice](outputs/Q20.jpg)
+
+</details>
+
+### Operational Utilities  
+<details>
+<summary><strong>Senior Most Employee in the band</strong></summary>
+
+![Senior Most Employee in the band](outputs/Q21.jpg)
+
+</details>
+
+</details>
+
 
 ---
 
