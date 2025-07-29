@@ -21,6 +21,9 @@ A comprehensive PostgreSQL-based analytics project for **Neon Bison**, a fiction
 
 ---
 
+<details>
+<summary><strong>Table of Contents</strong></summary>
+  
 ## Project Overview
 
 This project simulates a business intelligence case for a band preparing to scale up its operations globally. Using SQL queries in PostgreSQL, we analyze historical digital music store data to derive insights across dimensions like customer behavior, sales geography, media preferences, genre trends, and revenue contributions by artists.
@@ -33,6 +36,8 @@ The findings can inform setlist decisions, marketing geography, pricing strategi
 - What revenue patterns exist across markets and media  
 
 All queries are written in PostgreSQL.
+
+</details>
 
 ---
 
