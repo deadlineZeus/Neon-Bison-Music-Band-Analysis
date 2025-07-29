@@ -101,7 +101,7 @@ Below is the database schema showcasing relationships between all tables:
 <summary><strong>Business Questions Answered</strong></summary>
 
 ### Genre & Track Trends  
-- [Genre with Highest Revenues](queries/Genre%20with%20Highest%20Revenues.sql)  
+- [Genre with Highest Revenues](outputs/Q1.jpg)  
 - [Genre with Low Volume but High Revenue](queries/Genre%20with%20Low%20Volume%20but%20High%20Revenue.sql)  
 - [Tracks Purchased Most Number of Times](queries/Tracks%20Purchased%20Most%20Number%20of%20Times.sql)  
 - [Songs longer than Average Song Length](queries/Songs%20longer%20than%20Average%20Song%20Length.sql)  
