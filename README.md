@@ -21,7 +21,8 @@ A comprehensive PostgreSQL-based analytics project for **Neon Bison**, a fiction
 
 ---
 
-<details>
+<a id="project-overview"></a>
+<details open>
 <summary><strong>Project Overview</strong></summary>
 
 This project simulates a business intelligence case for a band preparing to scale up its operations globally. Using SQL queries in PostgreSQL, we analyze historical digital music store data to derive insights across dimensions like customer behavior, sales geography, media preferences, genre trends, and revenue contributions by artists.
@@ -39,6 +40,7 @@ All queries are written in PostgreSQL.
 
 ---
 
+<a id="data-loading"></a>
 <details>
 <summary><strong>Data Loading</strong></summary>
 
@@ -55,6 +57,7 @@ This section demonstrates how the dataset was imported and validated for analysi
 
 ---
 
+<a id="dataset-description"></a>
 <details>
 <summary><strong>Dataset Description</strong></summary>
 
@@ -81,6 +84,7 @@ The dataset resembles a digital music store with the following key tables:
 
 ---
 
+<a id="entity-relationship-diagram"></a>
 <details>
 <summary><strong>Entity-Relationship Diagram</strong></summary>
 
@@ -92,6 +96,7 @@ Below is the database schema showcasing relationships between all tables:
 
 ---
 
+<a id="business-questions-answered"></a>
 <details>
 <summary><strong>Business Questions Answered</strong></summary>
 
@@ -131,6 +136,7 @@ Below is the database schema showcasing relationships between all tables:
 
 ---
 
+<a id="key-insights"></a>
 <details>
 <summary><strong>Key Insights</strong></summary>
 
@@ -145,6 +151,7 @@ Below is the database schema showcasing relationships between all tables:
 
 ---
 
+<a id="technical-skills-demonstrated"></a>
 <details>
 <summary><strong>Technical Skills Demonstrated</strong></summary>
 
@@ -159,6 +166,7 @@ Below is the database schema showcasing relationships between all tables:
 
 ---
 
+<a id="folder-structure"></a>
 <details>
 <summary><strong>Folder Structure</strong></summary>
 
@@ -175,12 +183,11 @@ Neon-Bison-Music-Band-Analysis/
 ```
 </details>
 
---- 
+---
 
-<details>
-<summary><strong>Conclusion</strong></summary>
+<a id="conclusion"></a>
 
-This project showcases how relational database analysis can drive actionable music industry strategies. By analyzing purchase patterns, customer geography, genre preferences, and artist performance, bands like **Neon Bison** can make data-driven decisions for touring, pricing, and promotion.
+<details> <summary><strong>Conclusion</strong></summary>
+This project showcases how relational database analysis can drive actionable music industry strategies. By analyzing purchase patterns, customer geography, genre preferences, and artist performance, bands like Neon Bison can make data-driven decisions for touring, pricing, and promotion.
 
-</details>
-
+</details> ``
