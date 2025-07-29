@@ -90,7 +90,6 @@ Below is the database schema showcasing relationships between all tables:
 - [Customer Spending on Each Artist](queries/Customer%20Spending%20on%20Each%20Artist.sql)  
 
 ### Customer Insights & Segmentation  
-- [Best Customer by Spending](queries/Best%20Customer%20by%20Spending.sql)  
 - [Highest Spending Customers Across All Time](queries/Highest%20Spending%20Customers%20Across%20All%20Time.sql)  
 - [Customers with Single or Multiple Purchases](queries/Customers%20with%20Single%20or%20Multiple%20Purchases.sql)  
 - [Top Spenders From Each Country](queries/Top%20Spenders%20From%20Each%20Country.sql)  
