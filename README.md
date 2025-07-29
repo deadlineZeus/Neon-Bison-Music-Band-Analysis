@@ -182,7 +182,7 @@ Below is the database schema showcasing relationships between all tables:
 
 ### Customer Insights & Segmentation  
 <details>
-<summary><strong>Highest Spending Customers Across All Time</strong></summary>
+<summary><strong>Highest Spending Customer of All Time</strong></summary>
 
 ![Highest Spending Customers Across All Time](outputs/Q11.jpg)
 
@@ -191,7 +191,7 @@ Below is the database schema showcasing relationships between all tables:
 <details>
 <summary><strong>Customers with Single or Multiple Purchases</strong></summary>
 
-![Customers with Single or Multiple Purchases](outputs/Q12.jpg)
+![Customers with Single or Multiple Purchases](outputs/Q13.jpg)
 
 </details>
 
