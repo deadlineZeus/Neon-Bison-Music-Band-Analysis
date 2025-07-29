@@ -105,7 +105,7 @@ Below is the database schema showcasing relationships between all tables:
 - [Top 3 Values of Invoice](queries/Top%203%20Values%20of%20Invoice.sql)  
 
 ### Operational Utilities  
-- [Senior Most Employee](queries/Senior%20Most%20Employee.sql)  
+- [Senior Most Employee in the band](queries/Senior%20Most%20Employee.sql)  
 
 </details>
 
