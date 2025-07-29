@@ -13,11 +13,13 @@ A comprehensive PostgreSQL-based analytics project for *Neon Bison*, a fictional
 - [Entity-Relationship Diagram](#entity-relationship-diagram)  
 - [Business Questions Answered](#business-questions-answered)  
 - [Key Insights](#key-insights)  
+- [Strategic Recommendations](#strategic-recommendations)  
 - [Technical Skills Demonstrated](#technical-skills-demonstrated)  
 - [Folder Structure](#folder-structure)  
 - [Conclusion](#conclusion)  
 
 </details>
+
 
 ---
 
