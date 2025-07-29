@@ -267,6 +267,8 @@ Below is the database schema showcasing relationships between all tables:
 
 </details>
 
+---
+
 <a id="strategic-recommendations"></a>
 <details>
 <summary><strong>Strategic Recommendations</strong></summary>
