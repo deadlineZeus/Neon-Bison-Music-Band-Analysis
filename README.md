@@ -47,7 +47,8 @@ All queries are written in PostgreSQL.
 This section demonstrates how the dataset was imported and loaded to PostgreSQL database locally before our analysis. First a database was created and then we used automation for uploading the `.CSV` files using `Python` on the `Jupyter Notebook`. We used the `SQLAlchemy` library to import the functions to have the files path and do the task for us.
 However, it is difficult to visually show how we achieved that in this `README.md` file, but you can take a quick look of that code running by clicking this.
 
-> 📁 `validation/Python Automated Table Creation & Data Fill Up on Jupyter Notebook.mp4`
+[![Watch the video](https://img.youtube.com/vi/SzcM7h5wIxY/0.jpg)](https://youtu.be/SzcM7h5wIxY?si=QEMQKyq-n09Kvpln)
+
 
 <video width="100%" height="400" controls>
   <source src="validation/data_loading.mp4" type="video/mp4">
