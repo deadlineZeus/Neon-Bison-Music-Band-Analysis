@@ -300,17 +300,16 @@ Below is the database schema showcasing relationships between all tables:
 - Multi-table joins using `INNER JOIN`, `LEFT JOIN`  
 - Aggregation and filtering using `GROUP BY`, `HAVING`  
 - Window functions such as `ROW_NUMBER`, `RANK` for advanced analytics  
-- Common Table Expressions (CTEs) for modular and readable queries  
-- Query optimization, sorting, and formatting of outputs for clarity  
+- Common Table Expressions `(CTEs)` for modular and readable queries  
+- `Query optimization`, sorting, and formatting of outputs for clarity  
 
 **Data Workflow & Tools**  
-- Used **Jupyter Notebook** and **Python** to automate bulk data loading into PostgreSQL  
-- Set up and analyzed datasets within a **locally hosted PostgreSQL database**  
-- Utilized **AI tools like ChatGPT** to accelerate query design and enhance productivity  
+- Used **Jupyter Notebook** and **Python** to automate bulk data loading into `PostgreSQL`  
+- Set up and analyzed datasets within a locally hosted database  
+- Utilized AI tools like `ChatGPT` to accelerate query design and enhance productivity  
 
 **Conceptual Foundations**  
-- Applied core **DBMS (Database Management System)** principles to model relationships across entities  
-- Developed analytical logic around **customer behavior, genre trends, and revenue segmentation**
+- Applied core `DBMS (Database Management System)` principles to model relationships across tables  
 
 </details>
 
