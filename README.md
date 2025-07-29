@@ -304,8 +304,9 @@ Below is the database schema showcasing relationships between all tables:
 - `Query optimization`, sorting, and formatting of outputs for clarity  
 
 **Data Workflow & Tools**  
-- Used **Jupyter Notebook** and **Python** to automate bulk data loading into `PostgreSQL`  
-- Set up and analyzed datasets within a locally hosted database  
+- Used `Jupyter Notebook` and `Python` to automate bulk data loading into `PostgreSQL`
+- Used `ORM` libraries like `SQL Alchemy` for data faster data loading
+- Set up and analyzed datasets within a locally hosted database
 - Utilized AI tools like `ChatGPT` to accelerate query design and enhance productivity  
 
 **Conceptual Foundations**  
