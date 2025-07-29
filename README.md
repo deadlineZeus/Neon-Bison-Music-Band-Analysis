@@ -258,12 +258,32 @@ Below is the database schema showcasing relationships between all tables:
 <details>
 <summary><strong>Key Insights</strong></summary>
 
-- Rock dominates in most English-speaking countries; Latin is big in Brazil.  
-- The USA leads in both revenue and invoice volume, followed by Canada and Brazil.  
-- Luís Gonçalves is the highest-spending customer at over \$49.  
-- Queen and Led Zeppelin top the charts in artist revenue.  
-- Cities like São Paulo and Edmonton have high average customer spend.  
-- Some albums earn significantly more per track than others, showing commercial efficiency.
+- Rock dominates in most English-speaking countries, with Brazil leaning heavily toward Latin genres. Notably, Rock fans exhibit strong loyalty—**all 59 Rock customers were repeat buyers**, suggesting clear retention potential.
+- The USA leads in both revenue and invoice volume, followed by Canada and Brazil. However, **the highest-spending individual customer** is František Wichterlová from the Czech Republic, who spent over **$144**, indicating that **high-value customers are globally dispersed**.
+- While Queen and Led Zeppelin are among the top Rock artists by revenue, it's Queen who leads with over **$190 in earnings**, demonstrating both reach and monetization potential.
+- Albums like *"Cake: B‑Sides and Rarities"* show extremely high commercial efficiency, earning **$30.69 from a single track**, while Jimi Hendrix’s *"Are You Experienced?"* maintains consistent performance across multiple tracks.
+- Customers such as Aaron Mitchell exhibit **multi-genre spending behavior**, with purchases spanning artists like James Brown, Pearl Jam, and Chris Cornell. This reflects a **cross-genre fan segment ideal for personalized recommendations and hybrid playlists**.
+- Artists with the largest catalogs (Led Zeppelin: 114 tracks, U2: 112) don’t necessarily generate the most revenue. In contrast, artists like Cake and Queen achieve better revenue-to-track ratios, highlighting the **value of high-performing catalogs over volume**.
+- Cities like São Paulo and Edmonton continue to show **high average customer spend**, but strategic opportunities also exist in **underrepresented, high-spend markets** such as Prague and Brasília.
+
+</details>
+
+---
+
+<details>
+<summary><strong>Strategic Recommendations</strong></summary>
+
+- **Leverage Rock Customer Loyalty**: All 59 Rock genre customers made multiple purchases, highlighting a prime audience for exclusive early-access releases, bundled album deals, or loyalty rewards focused on Rock offerings.
+
+- **Design Geo-Specific Campaigns**: Customers in Brazil (e.g., Fernanda Dias, Luis Rojas) and Prague (e.g., František Wichterlová) represent high-value spenders. Consider **localized promotions or curated playlists** to increase regional conversion rates.
+
+- **Introduce Cross-Genre Discovery**: Listeners like Aaron Mitchell and Bjørn Hansen span multiple genres and artists. Promote **smart discovery algorithms or AI-curated recommendations** that reflect these eclectic tastes and drive engagement.
+
+- **Upsell Through Collector-Grade Albums**: Albums like *“Cake: B-Sides and Rarities”* deliver exceptional revenue per track. Introduce a **“Collector’s Choice” section** in the store for albums with high value density to encourage premium purchases.
+
+- **Optimize Based on Lifetime Value (LTV)**: Customers such as Fynn Zimmermann and Michelle Brooks show sustained, diverse purchase patterns. Segmenting by LTV and engagement span can inform **tiered marketing strategies** or early-access concert invitations.
+
+- **Target Silent High-Potential Customers**: Some customers (e.g., Luis Rojas) are active in high-spend cities like Brasília but are **underrepresented in marketing touchpoints**. A focused retargeting strategy could unlock additional value from this segment.
 
 </details>
 
