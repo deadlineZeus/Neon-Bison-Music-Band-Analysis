@@ -29,7 +29,6 @@ All queries are written in PostgreSQL.
 - [Key Insights](#key-insights)  
 - [Technical Skills Demonstrated](#technical-skills-demonstrated)  
 - [Folder Structure](#folder-structure)  
-- [How to Run](#how-to-run)  
 - [Conclusion](#conclusion)  
 
 </details>
@@ -169,3 +168,9 @@ Neon-Bison-Music-Band-Analysis/
 ├── outputs/               # Query result CSVs/Markdowns
 ├── schema_diagram.png     # ER diagram
 └── README.md              # This file
+```
+---
+
+## Conclusion
+
+This project showcases how relational database analysis can drive actionable music industry strategies. By analyzing purchase patterns, customer geography, genre preferences, and artist performance, bands like **Neon Bison** can make data-driven decisions for touring, pricing, and promotion.
