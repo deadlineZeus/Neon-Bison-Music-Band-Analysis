@@ -84,7 +84,7 @@ The dataset resembles a digital music store with the following key tables:
 | `employee`              | Store employees, reps, and hierarchy                         |
 | `playlist`, `playlist_track` | Playlist metadata and track mapping               |
 
-> Key CSVs (in `data/` folder):  
+> Key CSV files ( Available in `data/` folder):  
 > `customer.csv`, `invoice.csv`, `invoice_line.csv`, `track.csv`, `album.csv`, `artist.csv`, `genre.csv`,  
 > `media_type.csv`, `employee.csv`, `playlist.csv`, `playlist_track.csv`
 
