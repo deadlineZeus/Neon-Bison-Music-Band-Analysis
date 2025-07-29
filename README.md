@@ -110,151 +110,112 @@ Below is the database schema showcasing relationships between all tables:
 
 ### Genre & Track Trends  
 <details>
-<summary><strong>Genre with Highest Revenues</strong></summary>
-
-![Genre with Highest Revenues](outputs/Q1.jpg)
-
+<summary><strong>&emsp;Genre with Highest Revenues</strong></summary>
+<img src="outputs/Q1.jpg" alt="Genre with Highest Revenues">
 </details>
 
 <details>
-<summary><strong>Genre with Low Volume but High Revenue</strong></summary>
-
-![Genre with Low Volume but High Revenue](outputs/Q2.jpg)
-
+<summary><strong>&emsp;Genre with Low Volume but High Revenue</strong></summary>
+<img src="outputs/Q2.jpg" alt="Genre with Low Volume but High Revenue">
 </details>
 
 <details>
-<summary><strong>Tracks Purchased Most Number of Times</strong></summary>
-
-![Tracks Purchased Most Number of Times](outputs/Q3.jpg)
-
+<summary><strong>&emsp;Tracks Purchased Most Number of Times</strong></summary>
+<img src="outputs/Q3.jpg" alt="Tracks Purchased Most Number of Times">
 </details>
 
 <details>
-<summary><strong>Songs longer than Average Song Length</strong></summary>
-
-![Songs longer than Average Song Length](outputs/Q4.jpg)
-
+<summary><strong>&emsp;Songs longer than Average Song Length</strong></summary>
+<img src="outputs/Q4.jpg" alt="Songs longer than Average Song Length">
 </details>
 
 <details>
-<summary><strong>All Rock Music Listeners Data</strong></summary>
-
-![All Rock Music Listeners Data](outputs/Q5.jpg)
-
+<summary><strong>&emsp;All Rock Music Listeners Data</strong></summary>
+<img src="outputs/Q5.jpg" alt="All Rock Music Listeners Data">
 </details>
 
 ### Artist & Album Performance  
 <details>
-<summary><strong>Albums with Highest Revenue Per Track</strong></summary>
-
-![Albums with Highest Revenue Per Track](outputs/Q6.jpg)
-
+<summary><strong>&emsp;Albums with Highest Revenue Per Track</strong></summary>
+<img src="outputs/Q6.jpg" alt="Albums with Highest Revenue Per Track">
 </details>
 
 <details>
-<summary><strong>Artists With Highest Revenue</strong></summary>
-
-![Artists With Highest Revenue](outputs/Q7.jpg)
-
+<summary><strong>&emsp;Artists With Highest Revenue</strong></summary>
+<img src="outputs/Q7.jpg" alt="Artists With Highest Revenue">
 </details>
 
 <details>
-<summary><strong>Top 10 Rock artists by song numbers</strong></summary>
-
-![Top 10 Rock artists by song numbers](outputs/Q8.jpg)
-
+<summary><strong>&emsp;Top 10 Rock artists by song numbers</strong></summary>
+<img src="outputs/Q8.jpg" alt="Top 10 Rock artists by song numbers">
 </details>
 
 <details>
-<summary><strong>Artists with Most Number of Appearences in Invoices</strong></summary>
-
-![Artists with Most Number of Appearences in Invoices](outputs/Q9.jpg)
-
+<summary><strong>&emsp;Artists with Most Number of Appearences in Invoices</strong></summary>
+<img src="outputs/Q9.jpg" alt="Artists with Most Number of Appearences in Invoices">
 </details>
 
 <details>
-<summary><strong>Customer Spending on Each Artist</strong></summary>
-
-![Customer Spending on Each Artist](outputs/Q10.jpg)
-
+<summary><strong>&emsp;Customer Spending on Each Artist</strong></summary>
+<img src="outputs/Q10.jpg" alt="Customer Spending on Each Artist">
 </details>
 
 ### Customer Insights & Segmentation  
 <details>
-<summary><strong>Highest Spending Customer of All Time</strong></summary>
-
-![Highest Spending Customers Across All Time](outputs/Q11.jpg)
-
+<summary><strong>&emsp;Highest Spending Customer of All Time</strong></summary>
+<img src="outputs/Q11.jpg" alt="Highest Spending Customers Across All Time">
 </details>
 
 <details>
-<summary><strong>Customers with Single or Multiple Purchases</strong></summary>
-
-![Customers with Single or Multiple Purchases](outputs/Q13.jpg)
-
+<summary><strong>&emsp;Customers with Single or Multiple Purchases</strong></summary>
+<img src="outputs/Q13.jpg" alt="Customers with Single or Multiple Purchases">
 </details>
 
 <details>
-<summary><strong>Top Spenders From Each Country</strong></summary>
-
-![Top Spenders From Each Country](outputs/Q14.jpg)
-
+<summary><strong>&emsp;Top Spenders From Each Country</strong></summary>
+<img src="outputs/Q14.jpg" alt="Top Spenders From Each Country">
 </details>
 
 ### Geographic Market Analysis  
 <details>
-<summary><strong>Country Wise Top Spenders on Music</strong></summary>
-
-![Country Wise Top Spenders on Music](outputs/Q14.jpg)
-
+<summary><strong>&emsp;Country Wise Top Spenders on Music</strong></summary>
+<img src="outputs/Q14.jpg" alt="Country Wise Top Spenders on Music">
 </details>
 
 <details>
-<summary><strong>Country Wise Most Popular Genre</strong></summary>
-
-![Country Wise Most Popular Genre](outputs/Q16.jpg)
-
+<summary><strong>&emsp;Country Wise Most Popular Genre</strong></summary>
+<img src="outputs/Q16.jpg" alt="Country Wise Most Popular Genre">
 </details>
 
 <details>
-<summary><strong>Country With Most Invoices</strong></summary>
-
-![Country With Most Invoices](outputs/Q17.jpg)
-
+<summary><strong>&emsp;Country With Most Invoices</strong></summary>
+<img src="outputs/Q17.jpg" alt="Country With Most Invoices">
 </details>
 
 <details>
-<summary><strong>Country Wise Average Revenue</strong></summary>
-
-![Country Wise Average Revenue](outputs/Q18.jpg)
-
+<summary><strong>&emsp;Country Wise Average Revenue</strong></summary>
+<img src="outputs/Q18.jpg" alt="Country Wise Average Revenue">
 </details>
 
 <details>
-<summary><strong>City With The Best Customers</strong></summary>
-
-![City With The Best Customers](outputs/Q19.jpg)
-
+<summary><strong>&emsp;City With The Best Customers</strong></summary>
+<img src="outputs/Q19.jpg" alt="City With The Best Customers">
 </details>
 
 ### Financial Insights  
 <details>
-<summary><strong>Top 3 Values of Invoice</strong></summary>
-
-![Top 3 Values of Invoice](outputs/Q20.jpg)
-
+<summary><strong>&emsp;Top 3 Values of Invoice</strong></summary>
+<img src="outputs/Q20.jpg" alt="Top 3 Values of Invoice">
 </details>
 
 ### Operational Utilities  
 <details>
-<summary><strong>Senior Most Employee in the band</strong></summary>
-
-![Senior Most Employee in the band](outputs/Q21.jpg)
-
+<summary><strong>&emsp;Senior Most Employee in the band</strong></summary>
+<img src="outputs/Q21.jpg" alt="Senior Most Employee in the band">
 </details>
 
 </details>
+
 
 
 ---
