@@ -41,7 +41,7 @@ All queries are written in PostgreSQL.
 
 This section demonstrates how the dataset was imported and validated for analysis. The following video walks through the data loading process, including setting up the PostgreSQL database and importing the CSV files.
 
-> 📁 `validation/data_loading.mp4`
+> 📁 `validation/Python Automated Table Creation & Data Fill Up on Jupyter Notebook.mp4`
 
 <video width="100%" height="400" controls>
   <source src="validation/data_loading.mp4" type="video/mp4">
