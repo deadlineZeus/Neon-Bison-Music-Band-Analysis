@@ -27,18 +27,22 @@ A comprehensive PostgreSQL-based analytics project for *Neon Bison*, a fictional
 <details>
 <summary><strong>Project Overview</strong></summary>
 
-This project simulates a business intelligence case for a band preparing to scale up its operations globally. Using SQL queries in PostgreSQL, we analyze historical digital music store data to derive insights across dimensions like customer behavior, sales geography, media preferences, genre trends, and revenue contributions by artists.
+This project simulates a real-world business intelligence case for *Neon Bison*, a fictional American music band aiming to expand its global presence. Using historical data from a digital music store, we performed end-to-end analysis to uncover insights that would inform strategic decisions around concert tour planning, marketing, and audience engagement.
 
-The findings can inform setlist decisions, marketing geography, pricing strategies, and tour planning. To make informed decisions, they are analyzing past music store data to uncover:
+Through a series of well-structured PostgreSQL queries, we analyzed customer spending behavior, geographic trends, genre preferences, and revenue performance at both artist and album levels.
 
-- Who their top customers are  
-- Which cities or countries have the highest engagement  
-- Which genres and artists are most popular  
-- What revenue patterns exist across markets and media  
+**Key questions explored include:**
+- Which countries and cities generate the most revenue?
+- Who are the top-spending customers and where are they located?
+- What genres and artists dominate in different markets?
+- Which albums deliver the highest commercial efficiency?
 
-All queries are written in PostgreSQL.
+The analysis revealed strong performance of Rock music in English-speaking countries, high revenue potential in cities like São Paulo, Edmonton, and Prague, and unique opportunities to market collector-grade albums and re-engage high-value but low-profile customers.
+
+All data processing was done using SQL (PostgreSQL), with visual outputs generated for each insight. Automation tools in Python were also used for bulk data upload and validation.
 
 </details>
+
 
 ---
 
