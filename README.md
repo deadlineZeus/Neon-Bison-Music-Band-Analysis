@@ -108,144 +108,138 @@ Below is the database schema showcasing relationships between all tables:
 <details>
 <summary><strong>Business Questions Answered</strong></summary>
 
-### Genre & Track Trends
-<sub><em>Click on the question to see the answers directly</em></sub>
+### Genre & Track Trends <sub><em>(Click on the question to see the answers directly)</em></sub>
 
-<div style="padding-left: 2em;">
+<div style="padding-left: 5em;">
   <details>
     <summary><strong>Genre with Highest Revenues</strong></summary>
     <img src="outputs/Q1.jpg" alt="Genre with Highest Revenues">
   </details>
 </div>
-<div style="padding-left: 2em;">
+<div style="padding-left: 5em;">
   <details>
     <summary><strong>Genre with Low Volume but High Revenue</strong></summary>
     <img src="outputs/Q2.jpg" alt="Genre with Low Volume but High Revenue">
   </details>
 </div>
-<div style="padding-left: 2em;">
+<div style="padding-left: 5em;">
   <details>
     <summary><strong>Tracks Purchased Most Number of Times</strong></summary>
     <img src="outputs/Q3.jpg" alt="Tracks Purchased Most Number of Times">
   </details>
 </div>
-<div style="padding-left: 2em;">
+<div style="padding-left: 5em;">
   <details>
     <summary><strong>Songs longer than Average Song Length</strong></summary>
     <img src="outputs/Q4.jpg" alt="Songs longer than Average Song Length">
   </details>
 </div>
-<div style="padding-left: 2em;">
+<div style="padding-left: 5em;">
   <details>
     <summary><strong>All Rock Music Listeners Data</strong></summary>
     <img src="outputs/Q5.jpg" alt="All Rock Music Listeners Data">
   </details>
 </div>
 
-### Artist & Album Performance
-<sub><em>Click on the question to see the answers directly</em></sub>
+### Artist & Album Performance <sub><em>(Click on the question to see the answers directly)</em></sub>
 
-<div style="padding-left: 2em;">
+<div style="padding-left: 5em;">
   <details>
     <summary><strong>Albums with Highest Revenue Per Track</strong></summary>
     <img src="outputs/Q6.jpg" alt="Albums with Highest Revenue Per Track">
   </details>
 </div>
-<div style="padding-left: 2em;">
+<div style="padding-left: 5em;">
   <details>
     <summary><strong>Artists With Highest Revenue</strong></summary>
     <img src="outputs/Q7.jpg" alt="Artists With Highest Revenue">
   </details>
 </div>
-<div style="padding-left: 2em;">
+<div style="padding-left: 5em;">
   <details>
     <summary><strong>Top 10 Rock artists by song numbers</strong></summary>
     <img src="outputs/Q8.jpg" alt="Top 10 Rock artists by song numbers">
   </details>
 </div>
-<div style="padding-left: 2em;">
+<div style="padding-left: 5em;">
   <details>
     <summary><strong>Artists with Most Number of Appearences in Invoices</strong></summary>
     <img src="outputs/Q9.jpg" alt="Artists with Most Number of Appearences in Invoices">
   </details>
 </div>
-<div style="padding-left: 2em;">
+<div style="padding-left: 5em;">
   <details>
     <summary><strong>Customer Spending on Each Artist</strong></summary>
     <img src="outputs/Q10.jpg" alt="Customer Spending on Each Artist">
   </details>
 </div>
 
-### Customer Insights & Segmentation
-<sub><em>Click on the question to see the answers directly</em></sub>
+### Customer Insights & Segmentation <sub><em>(Click on the question to see the answers directly)</em></sub>
 
-<div style="padding-left: 2em;">
+<div style="padding-left: 5em;">
   <details>
     <summary><strong>Highest Spending Customer of All Time</strong></summary>
     <img src="outputs/Q11.jpg" alt="Highest Spending Customer of All Time">
   </details>
 </div>
-<div style="padding-left: 2em;">
+<div style="padding-left: 5em;">
   <details>
     <summary><strong>Customers with Single or Multiple Purchases</strong></summary>
     <img src="outputs/Q13.jpg" alt="Customers with Single or Multiple Purchases">
   </details>
 </div>
-<div style="padding-left: 2em;">
+<div style="padding-left: 5em;">
   <details>
     <summary><strong>Top Spenders From Each Country</strong></summary>
     <img src="outputs/Q14.jpg" alt="Top Spenders From Each Country">
   </details>
 </div>
 
-### Geographic Market Analysis
-<sub><em>Click on the question to see the answers directly</em></sub>
+### Geographic Market Analysis <sub><em>(Click on the question to see the answers directly)</em></sub>
 
-<div style="padding-left: 2em;">
+<div style="padding-left: 5em;">
   <details>
     <summary><strong>Country Wise Top Spenders on Music</strong></summary>
     <img src="outputs/Q14.jpg" alt="Country Wise Top Spenders on Music">
   </details>
 </div>
-<div style="padding-left: 2em;">
+<div style="padding-left: 5em;">
   <details>
     <summary><strong>Country Wise Most Popular Genre</strong></summary>
     <img src="outputs/Q16.jpg" alt="Country Wise Most Popular Genre">
   </details>
 </div>
-<div style="padding-left: 2em;">
+<div style="padding-left: 5em;">
   <details>
     <summary><strong>Country With Most Invoices</strong></summary>
     <img src="outputs/Q17.jpg" alt="Country With Most Invoices">
   </details>
 </div>
-<div style="padding-left: 2em;">
+<div style="padding-left: 5em;">
   <details>
     <summary><strong>Country Wise Average Revenue</strong></summary>
     <img src="outputs/Q18.jpg" alt="Country Wise Average Revenue">
   </details>
 </div>
-<div style="padding-left: 2em;">
+<div style="padding-left: 5em;">
   <details>
     <summary><strong>City With The Best Customers</strong></summary>
     <img src="outputs/Q19.jpg" alt="City With The Best Customers">
   </details>
 </div>
 
-### Financial Insights
-<sub><em>Click on the question to see the answers directly</em></sub>
+### Financial Insights <sub><em>(Click on the question to see the answers directly)</em></sub>
 
-<div style="padding-left: 2em;">
+<div style="padding-left: 5em;">
   <details>
     <summary><strong>Top 3 Values of Invoice</strong></summary>
     <img src="outputs/Q20.jpg" alt="Top 3 Values of Invoice">
   </details>
 </div>
 
-### Operational Utilities
-<sub><em>Click on the question to see the answers directly</em></sub>
+### Operational Utilities <sub><em>(Click on the question to see the answers directly)</em></sub>
 
-<div style="padding-left: 2em;">
+<div style="padding-left: 5em;">
   <details>
     <summary><strong>Senior Most Employee in the band</strong></summary>
     <img src="outputs/Q21.jpg" alt="Senior Most Employee in the band">
@@ -253,6 +247,7 @@ Below is the database schema showcasing relationships between all tables:
 </div>
 
 </details>
+
 
 
 
