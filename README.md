@@ -317,7 +317,6 @@ Below is the database schema showcasing relationships between all tables:
 
 ---
 
----
 
 <a id="conclusion"></a>
 <details>
