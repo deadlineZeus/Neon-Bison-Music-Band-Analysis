@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/photo-1481886756534-97af88ccb438.avif" alt="Concert Banner" width="100%">
+  <img src="assets/photo-1481886756534-97af88ccb438.jpg" alt="Concert Banner" width="100%">
 </p>
 
 # Neon Bison Music Band Analysis
