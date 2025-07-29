@@ -169,6 +169,7 @@ Neon-Bison-Music-Band-Analysis/
 ├── schema_diagram.png     # ER diagram
 └── README.md              # This file
 ```
+</details>
 ---
 
 ## Conclusion
