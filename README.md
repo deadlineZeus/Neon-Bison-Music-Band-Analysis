@@ -102,10 +102,10 @@ Below is the database schema showcasing relationships between all tables:
 
 ### Genre & Track Trends  
 - [Genre with Highest Revenues](outputs/Q1.jpg)  
-- [Genre with Low Volume but High Revenue](queries/Genre%20with%20Low%20Volume%20but%20High%20Revenue.sql)  
-- [Tracks Purchased Most Number of Times](queries/Tracks%20Purchased%20Most%20Number%20of%20Times.sql)  
-- [Songs longer than Average Song Length](queries/Songs%20longer%20than%20Average%20Song%20Length.sql)  
-- [All Rock Music Listeners Data](queries/All%20Rock%20Music%20Listeners%20Data.sql)
+- [Genre with Low Volume but High Revenue](outputs/Q2.jpg)  
+- [Tracks Purchased Most Number of Times](outputs/Q3.jpg)  
+- [Songs longer than Average Song Length](outputs/Q4.jpg)  
+- [All Rock Music Listeners Data](outputs/Q5.jpg)
 
 ### Artist & Album Performance  
 - [Albums with Highest Revenue Per Track](queries/Albums%20with%20Highest%20Revenue%20Per%20Track.sql)  
