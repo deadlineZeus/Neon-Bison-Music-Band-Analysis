@@ -301,15 +301,15 @@ Below is the database schema showcasing relationships between all tables:
 <details>
 <summary><strong>General Insights</strong></summary>
 
-1. Rock leads all genres in both sales volume and revenue contribution.
-2. Jazz and Classical genres, while not top-selling, generate high average revenue per track, indicating niche but valuable appeal.
-3. The United States and Canada have the most active and highest-spending customers, followed by Brazil and Germany.
-4. Cities like São Paulo, Edmonton, and Prague show standout average spend per customer, revealing deeper engagement despite smaller populations.
-5. Artists such as Queen and Led Zeppelin consistently appear in high-revenue albums, highlighting strong catalog longevity.
-6. Albums like Cake: B-Sides and Rarities earn significantly more revenue per track, suggesting that rare or curated content has strong market demand.
-7. Customers such as Aaron Mitchell and Bjørn Hansen exhibit diverse music interests across multiple genres.
-8. Rock buyers tend to be repeat purchasers, suggesting high potential for long-term engagement with this segment.
-9. František Wichterlová and Luis Rojas emerge as outlier high-spenders, despite moderate purchase frequency, indicating opportunities for targeted experiences.
+1. `Rock` leads all genres in both sales volume and revenue contribution.
+2. `Jazz` and `Classical` genres, while not top-selling, generate high average revenue per track, indicating niche but valuable appeal.
+3. The `United States` and `Canada` have the most active and highest-spending customers, followed by `Brazil` and `Germany`.
+4. Cities like `São Paulo`, `Edmonton`, and `Prague` show standout average spend per customer, revealing deeper engagement despite smaller populations.
+5. Artists such as `Queen` and `Led Zeppelin` consistently appear in high-revenue albums, highlighting strong catalog longevity.
+6. Albums like `Cake: B-Sides` and `Rarities` earn significantly more revenue per track, suggesting that rare or curated content has strong market demand.
+7. Customers such as `Aaron Mitchell` and `Bjørn Hansen` exhibit diverse music interests across multiple genres.
+8. `Rock` buyers tend to be repeat purchasers, suggesting high potential for long-term engagement with this segment.
+9. `František Wichterlová` and `Luis Rojas` emerge as outlier high-spenders, despite moderate purchase frequency, indicating opportunities for targeted experiences.
 
 </details>
 
@@ -319,13 +319,13 @@ Below is the database schema showcasing relationships between all tables:
 <details>
 <summary><strong>Strategic Insights</strong></summary>
 
-1. North America offers a strong starting point due to high activity, particularly in the USA and Canada, with both large customer bases and deep engagement.
-2. Brazil and Germany stand out as valuable secondary markets, combining a growing customer base with solid revenue potential.
-3. Specific European cities like Prague and Berlin reveal niche but profitable audiences, making them ideal for exclusive or targeted events.
-4. Customers who purchase across multiple genres present an opportunity to promote exploratory or genre-mixed playlists, encouraging further engagement.
-5. Rock genre loyalty can support returning customer strategies, such as early announcements or priority ticketing for known fans.
-6. High average revenue per track for Jazz and Classical points to the viability of premium or limited-edition offerings in select regions.
-7. High-value spenders like František Wichterlová and Luis Rojas highlight the importance of personalized incentives, even when purchase frequency is modest.
+1. `North America` offers a strong starting point due to high activity, particularly in the USA and Canada, with both large customer bases and deep engagement.
+2. `Brazil` and `Germany` stand out as valuable secondary markets, combining a growing customer base with solid revenue potential.
+3. Specific `European` cities like `Prague` and `Berlin` reveal niche but profitable audiences, making them ideal for exclusive or targeted events.
+4. Customers who purchase across `multiple genres` present an opportunity to promote `exploratory` or `genre-mixed playlists`, encouraging further engagement.
+5. `Rock` genre loyalty can support returning customer strategies, such as `early announcements` or `priority ticketing` for known fans.
+6. High average revenue per track for `Jazz` and `Classical` points to the viability of premium or `limited-edition offerings` in select regions.
+7. High-value spenders like `František Wichterlová` and `Luis Rojas` highlight the importance of `personalized incentives`, even when purchase frequency is modest.
 
 </details>
 
