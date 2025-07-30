@@ -23,7 +23,7 @@ From start to finish, the project simulates the workflow of a data-savvy tour st
 <summary><strong>Table of Contents</strong></summary>
 
 - [Introduction](#introduction)
-- - [Project Overview](#project-overview)  
+- [Project Overview](#project-overview)  
 - [Data Loading](#data-loading)  
 - [Dataset Description](#dataset-description)  
 - [Entity-Relationship Diagram](#entity-relationship-diagram)  
