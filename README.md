@@ -309,6 +309,7 @@ Below is the database schema showcasing relationships between all tables:
 ---
 
 <a id="final-recommendations"></a>
+
 <details>
 <summary><strong>Final Recommendations</strong></summary>
 
@@ -337,6 +338,7 @@ Below is the database schema showcasing relationships between all tables:
 
 
 <a id="conclusion"></a>
+
 <details>
 <summary><strong>Conclusion</strong></summary>
 
