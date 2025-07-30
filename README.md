@@ -1,6 +1,9 @@
-# Neon Bison Music Band Analysis
+# Global Concert Tour Strategy for Neon Bison
 
-A comprehensive PostgreSQL-based analytics project for *Neon Bison*, a fictional American music band. Using real-world music store data, this project uncovers patterns in customer behavior, genre popularity, geographic spending, and revenue optimization — aimed at guiding the band’s next concert tour planning. This is a completely stand-alone project created for the purpose of demonstrating skills to solve business problems and acquire technical mastery.
+A data-driven analytics project focused on designing the **optimal global concert tour strategy** for *Neon Bison*, a fictional American rock band. Using real-world digital music store data, this project uncovers customer spending patterns, genre preferences, and high-potential cities — enabling smart tour scheduling, geo-targeted promotions, and fan engagement strategies.
+
+This project simulates a real-world music business scenario and demonstrates how structured SQL analysis can be used to make **profitable touring decisions**.
+
 
 ---
 
@@ -27,21 +30,32 @@ A comprehensive PostgreSQL-based analytics project for *Neon Bison*, a fictional
 <details>
 <summary><strong>Project Overview</strong></summary>
 
-This project simulates a real-world business intelligence case for *Neon Bison*, a fictional American music band aiming to expand its global presence. Using historical data from a digital music store, we performed end-to-end analysis to uncover insights that would inform strategic decisions around concert tour planning, marketing, and audience engagement.
+🎯 **Business Objective:**  
+To design a profitable, data-backed concert tour for *Neon Bison* by identifying the most promising countries, cities, and fan segments across the world.
 
-Through a series of well-structured PostgreSQL queries, we analyzed customer spending behavior, geographic trends, genre preferences, and revenue performance at both artist and album levels.
+🎤 **Background:**  
+*Neon Bison*, a rising American rock band, seeks to expand its global reach by organizing a multi-country concert tour. Instead of relying on intuition or marketing guesswork, they want to leverage data from a global music store platform — capturing who listens to what, where, and how much they spend.
 
-**Key questions explored include:**
-- Which countries and cities generate the most revenue?
-- Who are the top-spending customers and where are they located?
-- What genres and artists dominate in different markets?
-- Which albums deliver the highest commercial efficiency?
+💼 **Analytical Approach:**  
+Using SQL (PostgreSQL) and real-world transactional music data, this project uncovers:
 
-The analysis revealed strong performance of Rock music in English-speaking countries, high revenue potential in cities like São Paulo, Edmonton, and Prague, and unique opportunities to market collector-grade albums and re-engage high-value but low-profile customers.
+- Where Neon Bison fans are most concentrated and loyal  
+- Which cities and countries generate the most revenue  
+- What music genres dominate across different geographies  
+- Which artists and albums show strong cross-market appeal  
+- Who the top-spending customers are — and where they live  
 
-All data processing was done using SQL (PostgreSQL), with visual outputs generated for each insight. Automation tools in Python were also used for bulk data upload and validation.
+🧩 **Outcome:**  
+The analysis translates into a clear, scalable concert tour roadmap for Neon Bison — including high-priority tour stops, marketing opportunities by region, and customer targeting tactics.
+
+🔧 **Tools Used:**  
+- SQL (PostgreSQL) for analytics  
+- Python (Jupyter Notebook, SQLAlchemy) for automation  
+- ER modeling for schema understanding  
+- Data visualizations for stakeholder communication  
 
 </details>
+
 
 
 ---
