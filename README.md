@@ -363,7 +363,12 @@ The methodology showcased here is scalable and adaptable to other artists or ind
 - Utilized AI tools like `ChatGPT` to accelerate query design and enhance productivity  
 
 **Conceptual Foundations**  
-- Applied core `DBMS (Database Management System)` principles to model relationships across tables  
+- Applied core `DBMS (Database Management System)` principles to model relationships across tables
+
+**AI Tools Used**
+- Used `ChatGPT` to design and optimize `SQL` queries
+- Generated initial `visualizations` & `documentation` with AI suggestions
+
 
 </details>
 
