@@ -30,31 +30,26 @@ This project simulates a real-world music business scenario and demonstrates how
 <details>
 <summary><strong>Project Overview</strong></summary>
 
-🎯 **Business Objective:**  
+**Business Objective**  
 To design a profitable, data-backed concert tour for *Neon Bison* by identifying the most promising countries, cities, and fan segments across the world.
 
-🎤 **Background:**  
-*Neon Bison*, a rising American rock band, seeks to expand its global reach by organizing a multi-country concert tour. Instead of relying on intuition or marketing guesswork, they want to leverage data from a global music store platform — capturing who listens to what, where, and how much they spend.
+**Background**  
+*Neon Bison*, an emerging American rock band, is planning its next international concert tour. Instead of relying solely on intuition or past performance, the management team aims to use transactional music store data to understand where their strongest and most valuable fan bases are located.
 
-💼 **Analytical Approach:**  
-Using SQL (PostgreSQL) and real-world transactional music data, this project uncovers:
+**Analytical Approach**  
+Using structured SQL queries on a relational database that mirrors a global digital music platform, this project analyzes:
 
-- Where Neon Bison fans are most concentrated and loyal  
-- Which cities and countries generate the most revenue  
-- What music genres dominate across different geographies  
-- Which artists and albums show strong cross-market appeal  
-- Who the top-spending customers are — and where they live  
+- Countries and cities with the highest music-related revenue  
+- Top-spending customers and their geographic concentration  
+- Regional dominance of music genres, especially Rock  
+- Commercial performance of artists and albums by market  
+- Customer behavior insights across genre and format preferences  
 
-🧩 **Outcome:**  
-The analysis translates into a clear, scalable concert tour roadmap for Neon Bison — including high-priority tour stops, marketing opportunities by region, and customer targeting tactics.
-
-🔧 **Tools Used:**  
-- SQL (PostgreSQL) for analytics  
-- Python (Jupyter Notebook, SQLAlchemy) for automation  
-- ER modeling for schema understanding  
-- Data visualizations for stakeholder communication  
+**Outcome**  
+The analysis results in a strategic roadmap for Neon Bison’s global concert tour. By aligning their performance schedule with high-revenue markets and loyal fan clusters, the band can maximize ticket sales, merchandising opportunities, and marketing efficiency.
 
 </details>
+
 
 
 
