@@ -452,6 +452,7 @@ music-sales-analysis/
 │   ├── Notebook File for Data Upload.ipynb
 │   └── Python Automated Table Creation & Data Fill Up on Jupyter Notebook.mp4
 │
+├── Rock-Band-Project.jpg
 ├── schema_diagram.png                  # Database schema/ER diagram
 └── README.md                           # Project overview and documentation
 
