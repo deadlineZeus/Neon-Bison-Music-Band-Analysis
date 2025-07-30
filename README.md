@@ -1,4 +1,4 @@
-# Global Concert Tour Strategy for Neon Bison<img src="[assets/banner.jpg](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwdk4YG6FkkkD9XIagbI7cYf4Vqbw-VTmVdg&s)" alt="Neon Bison Global Tour Banner" style="width:100%; max-height:400px; object-fit:cover;" />
+# Global Concert Tour Strategy for Neon Bison<img src="Rock-Band-Project.jpg" alt="Neon Bison Global Tour Banner" style="width:100%; max-height:400px; object-fit:cover;" />
 
 
 A data-driven analytics project focused on designing the **optimal global concert tour strategy** for *Neon Bison*, a fictional American rock band. Using real-world digital music store data, this project uncovers customer spending patterns, genre preferences, and high-potential cities — enabling smart tour scheduling, geo-targeted promotions, and fan engagement strategies.
