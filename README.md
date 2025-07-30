@@ -330,6 +330,21 @@ Below is the database schema showcasing relationships between all tables:
 
 ---
 
+
+<a id="conclusion"></a>
+<details>
+<summary><strong>Conclusion</strong></summary>
+
+This project demonstrates how structured SQL analytics can translate raw transactional data into meaningful business decisions. 
+
+By analyzing listener behavior, regional market potential, and revenue patterns, Neon Bison can design more effective concert tours, improve fan targeting, and identify high-value customer segments. 
+
+The methodology showcased here is scalable and adaptable to other artists or industries seeking to leverage relational databases for strategic growth.
+
+</details>
+
+---
+
 <a id="technical-skills-demonstrated"></a>
 <details>
 <summary><strong>Technical Skills Demonstrated</strong></summary>
@@ -355,21 +370,6 @@ Below is the database schema showcasing relationships between all tables:
 
 ---
 
-
-<a id="conclusion"></a>
-<details>
-<summary><strong>Conclusion</strong></summary>
-
-This project demonstrates how structured SQL analytics can translate raw transactional data into meaningful business decisions. 
-
-By analyzing listener behavior, regional market potential, and revenue patterns, Neon Bison can design more effective concert tours, improve fan targeting, and identify high-value customer segments. 
-
-The methodology showcased here is scalable and adaptable to other artists or industries seeking to leverage relational databases for strategic growth.
-
-</details>
-
-
----
 
 <a id="folder-structure"></a>
 <details>
