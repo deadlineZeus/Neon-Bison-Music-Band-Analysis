@@ -299,21 +299,27 @@ Below is the database schema showcasing relationships between all tables:
 
 ---
 
-<a id="strategic-recommendations"></a>
+<a id="final-recommendations"></a>
 <details>
-<summary><strong>Strategic Recommendations</strong></summary>
+<summary><strong>Final Recommendations</strong></summary>
 
-- **Double Down on Rock-Focused Promotions**: All 59 customers purchasing Rock tracks have made multiple purchases. Consider loyalty incentives, VIP access to new releases, or genre-themed subscription models.
+- **Launch the Tour in the USA and Canada**  
+  Focus on cities like New York, Chicago, and Toronto that combine strong purchase volumes and consistent customer engagement.
 
-- **Launch Regionalized Campaigns for High-Value Customers**: Clients in Brasília (e.g., Luis Rojas) and Prague (e.g., František Wichterlová) show standout spending behaviors. Tailored marketing and local language messaging could further boost retention and growth.
+- **Prioritize Brazil and Europe in the Next Phases**  
+  São Paulo and Brasília show strong average spend. European cities like Prague and Berlin offer niche but high-spending audiences.
 
-- **Introduce Smart Discovery Features**: Customers such as Aaron Mitchell and Bjørn Hansen purchase across a wide array of genres and artists. Recommend dynamic playlists and AI-driven suggestions to cater to their varied tastes.
+- **Create Digital Pre-Tour Campaigns**  
+  Share behind-the-scenes footage, regional playlists, and early previews tailored to the favorite genres of each location to boost anticipation.
 
-- **Highlight Collector-Grade Albums**: Albums with high revenue-per-track efficiency, like *Cake: B-Sides and Rarities*, should be marketed as premium products in a curated “Collector’s Choice” section.
+- **Recognize Loyal and High-Spending Fans**  
+  Offer early ticket access or exclusive merchandise to top customers like Luis Rojas and František Wichterlová, and to repeat Rock genre buyers.
 
-- **Segment by Lifetime Value and Engagement Span**: Customers like Fynn Zimmermann and Michelle Brooks display long-term, multi-artist engagement. Build tiered customer strategies for upselling, re-engagement, and early access programs.
+- **Design a Tiered Loyalty Program**  
+  Introduce Bronze, Silver, and Gold tiers with benefits like VIP access, merch discounts, and digital perks based on total spend and genre diversity.
 
-- **Identify Undermarketed High Spenders**: Silent but high-value clients like Luis Rojas are not currently engaged by tailored campaigns. Re-engage this segment through exclusive offers and personalized touchpoints.
+- **Host Exclusive Events in Select Markets**  
+  Use collector albums and high-revenue genres to plan limited-entry shows or acoustic sessions in high-value cities like Edmonton and Prague.
 
 </details>
 
