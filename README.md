@@ -1,4 +1,4 @@
-9<img src="Rock-Band-Project.jpg" alt="Neon Bison Global Tour Banner" style="width:100%; max-height:400px; object-fit:cover;" />
+<img src="Rock-Band-Project.jpg" alt="Neon Bison Global Tour Banner" style="width:100%; max-height:400px; object-fit:cover;" />
 
 # Global Concert Tour Strategy for music band Neon Bison
 
