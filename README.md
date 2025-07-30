@@ -325,7 +325,7 @@ Below is the database schema showcasing relationships between all tables:
 4. Customers who purchase across `multiple genres` present an opportunity to promote `exploratory` or `genre-mixed playlists`, encouraging further engagement.
 5. `Rock` genre loyalty can support returning customer strategies, such as `early announcements` or `priority ticketing` for known fans.
 6. High average revenue per track for `Jazz` and `Classical` points to the viability of premium or `limited-edition offerings` in select regions.
-7. High-value spenders like `František Wichterlová` and `Luis Rojas` highlight the importance of `personalized incentives`, even when purchase frequency is modest.
+7. High-value spenders highlight the importance of `personalized incentives`, even when purchase frequency is modest. It can be utilised by branding to gain more potential customers and secure profitability in the long-term financial space.
 
 </details>
 
