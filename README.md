@@ -269,16 +269,31 @@ Below is the database schema showcasing relationships between all tables:
 
 ---
 
-<a id="key-insights"></a>
+<a id="general-insights"></a>
 <details>
-<summary><strong>Key Insights</strong></summary>
+<summary><strong>General Insights</strong></summary>
 
--`Rock` dominates in most English-speaking countries; `Latin` thrives in Brazil.  
-- The USA leads in both total revenue and invoice volume, followed by Canada and Brazil.  
-- `Queen` and `Led Zeppelin` top the charts in artist revenue generation.  
-- Cities like `São Paulo` and `Edmonton` show notably high average customer spend.  
-- Some albums like *Cake: B-Sides and Rarities* yield significantly higher revenue per track, showcasing strong commercial efficiency.  
-- The `Prague` market, particularly through customers like František Wichterlová, reveals unexpectedly high spend potential despite smaller invoice volume.
+- The USA, Canada, and France have the highest music-related revenue.
+- India and Brazil, despite having lower average spend per customer, have promising customer volume.
+- Rock is the most dominant genre globally and is especially popular in top-spending regions.
+- MP3 is the preferred media format among most customers.
+- A few high-value customers contribute significantly to overall revenue — classic Pareto distribution.
+- Sales are not evenly distributed across cities even within the same country.
+- The band’s genre aligns well with revenue patterns — opportunity for strategic alignment.
+
+</details>
+
+---
+
+<a id="strategic-insights"></a>
+<details>
+<summary><strong>Strategic Insights</strong></summary>
+
+- Focus initial tour legs in the USA, Canada, and France for maximum immediate ROI.
+- India and Brazil offer long-term potential — leverage volume-based strategies like discounts or digital campaigns.
+- Target cities with high concentration of rock listeners and spending per customer (e.g., Paris, São Paulo, New York).
+- Launch pre-tour digital campaigns in cities with moderate revenue but fast-growing customer bases.
+- Prioritize engagement with top 10% customers through exclusive access, loyalty rewards, or meetups.
 
 </details>
 
