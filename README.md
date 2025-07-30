@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="assets/photo-1481886756534-97af88ccb438.jpg" alt="Concert Banner" width="100%">
-</p>
-
 # Neon Bison Music Band Analysis
 
 A comprehensive PostgreSQL-based analytics project for *Neon Bison*, a fictional American music band. Using real-world music store data, this project uncovers patterns in customer behavior, genre popularity, geographic spending, and revenue optimization — aimed at guiding the band’s next concert tour planning. This is a completely stand-alone project created for the purpose of demonstrating skills to solve business problems and acquire technical mastery.
