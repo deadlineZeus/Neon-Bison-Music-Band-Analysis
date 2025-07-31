@@ -447,7 +447,11 @@ music-sales-analysis/
 │   ├── 19_Best_Customers_By_City.sql
 │   ├── 20_Top_3_Invoice_Values.sql
 │   └── 21_Senior_Most_Employee.sql
+|
+├── report/                             # Overall presentation of this project in a PowerPoint file
+│   ├── Report-For-World-Neon-Bison-Tour-Analysis.pptx
 │
+|
 ├── outputs/                            # Visual output (JPG) for each query
 │   ├── Q1.jpg
 │   ├── Q2.jpg
