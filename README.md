@@ -344,7 +344,7 @@ Below is the database schema showcasing relationships between all tables:
 <details>
 <summary><strong>Final Recommendations</strong></summary>
 
-[**_(For better experience, please click here to see the presentation report in a .pdf file)_**](report/Final Presentation.pdf)
+[**_(For better experience, click here to view the presentation report as a PDF)_**](report/report_presentation.pdf)
 
 - **Launch the Tour in the USA and Canada**  
   Focus on cities like New York, Chicago, and Toronto that combine strong purchase volumes and consistent customer engagement.
