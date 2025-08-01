@@ -5,15 +5,13 @@
 <details open>
 <summary><strong><span style="font-size: 1.25em;">Executive Summary</span></strong></summary>
 
-In today’s data-rich music industry, successful global tours depend on more than just talent — they require insight. The Global Concert Tour Strategy for Neon Bison is a comprehensive `data analytics` project that transforms raw music store data into a full-scale touring strategy for the fictional American rock band `Neon Bison`.
+This project presents a data-driven global concert tour strategy for Neon Bison, a fictional American rock band. The primary purpose is to develop a comprehensive, insight-backed plan that serves as a recommendation for the band’s upcoming world tour — offering tour organizers clear, actionable strategies based on audience data.
 
-At its core, the project answers a critical question: `Where`, `why`, and `how` should the band tour to maximize impact and profitability. Drawing from a `structured relational database`, the analysis explores genre preferences, purchasing patterns, country-wise demand, and artist performance. `Automated workflows` streamline data preparation and upload processes, ensuring that even large datasets are efficiently handled and ready for exploration.
+It addresses a critical business question: Where, why, and how should the band tour to maximize audience reach, engagement, and profitability? Drawing from a structured relational database of digital music store transactions, the analysis examines customer demographics, genre preferences, and regional demand patterns. Automated workflows streamline data preparation, ensuring efficient handling of large datasets.
 
-The resulting insights highlight high-priority cities, optimal tour sequences, and audience preferences across regions. From `fan-favorite genres` to `big-spending customer clusters`, the strategy pinpoints where the band is likely to succeed — and how each show can be crafted to elevate `audience experience`.
+Key insights identify high-potential cities, optimal tour sequences, and regional audience preferences. The project also suggests enhancements for live performances, targeted promotional ideas, and loyalty-based monetization strategies.
 
-Beyond routing, the project outlines enhancements for live performances, ideas for `targeted promotions`, and loyalty-based `monetization strategies`. These insights are synthesized into a clear, visual, and engaging format — making use of modern tools to present complex findings with clarity and impact.
-
-From start to finish, the project simulates the workflow of a data-savvy tour strategist — one who leverages automation, analytics, and presentation intelligence to make `decisions driven by data` rather than guesswork. The final output: a `world tour roadmap` that is insightful, scalable, and built for real-world execution.
+From start to finish, this project simulates the role of a modern data analyst — combining SQL-driven analysis, workflow automation, and visual storytelling to deliver a scalable, real-world tour roadmap tailored for strategic decision-making by concert organizers.
 
 </details>
 
