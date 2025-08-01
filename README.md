@@ -3,7 +3,7 @@
 # Global Concert Tour Strategy for music band Neon Bison
 
 <details open>
-<summary><strong>Executive Summary</strong></summary>
+<summary><strong><span style="font-size: 1.25em;">Executive Summary</span></strong></summary>
 
 In today’s data-rich music industry, successful global tours depend on more than just talent — they require insight. The Global Concert Tour Strategy for Neon Bison is a comprehensive `data analytics` project that transforms raw music store data into a full-scale touring strategy for the fictional American rock band `Neon Bison`.
 
