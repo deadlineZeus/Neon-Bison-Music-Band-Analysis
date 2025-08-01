@@ -96,6 +96,8 @@ This section demonstrates how the dataset was imported and loaded to `PostgreSQL
   </details>
 </div>
 
+ **[Watch the output of data loading by Python]("validation/loading_onto_batabase.png")** (right-click or Ctrl+Click to open in a new tab)
+
 You can preview the automation steps in action here:  
 🎥 **[Watch the video on YouTube](https://youtu.be/SzcM7h5wIxY?si=QEMQKyq-n09Kvpln)** (right-click or Ctrl+Click to open in a new tab)
 
