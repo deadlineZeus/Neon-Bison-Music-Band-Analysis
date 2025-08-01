@@ -89,7 +89,12 @@ The analysis results in a strategic roadmap for Neon Bison’s global concert to
 
 This section demonstrates how the dataset was imported and loaded to `PostgreSQL` database locally before our analysis. First a database was created and then we used automation for uploading the .CSV files using `Python` on the `Jupyter Notebook`. We used the `SQLAlchemy` library to import the functions to have the files path and do the task for us. 
 
-<img src="vaidation/loading_onto_batabase.png" alt="Python Automation for Data Loading">
+<div style="padding-left: 5em;">
+  <details>
+    <summary><strong>Data loading onto database using Python</strong></summary>
+    <img src="validation/loading_onto_batabase.png" alt="ABCDE">
+  </details>
+</div>
 
 You can preview the automation steps in action here:  
 🎥 **[Watch the video on YouTube](https://youtu.be/SzcM7h5wIxY?si=QEMQKyq-n09Kvpln)** (right-click or Ctrl+Click to open in a new tab)
