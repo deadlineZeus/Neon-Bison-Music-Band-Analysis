@@ -503,13 +503,17 @@ This project showcases how relational database analysis can drive actionable mus
 
 </details>
 ```
+</details>
+
+<br>
 
 ---
 
 <a id="future-work"></a>
-<details>
-<summary><strong>Future Work</strong></summary>
+## 🔮 Future Work
 
-Future enhancements could include integrating real-time streaming data, incorporating sentiment analysis from social media to predict crowd responses, and expanding the dataset to include more recent artist performance metrics for even deeper strategic insights.
-
-</details>
+Future enhancements could include:
+- Integrating real-time streaming data to reflect evolving listener trends.
+- Performing sentiment analysis on social media to predict audience reactions.
+- Expanding the dataset with recent artist and tour performance data.
+- Optimizing ticket pricing using predictive modeling techniques.
