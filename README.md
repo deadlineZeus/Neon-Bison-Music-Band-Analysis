@@ -85,7 +85,7 @@ The analysis results in a strategic roadmap for Neon Bison’s global concert to
 ---
 
 <a id="data-loading"></a>
-<details>
+<details  open>
 <summary><strong>Data Loading</strong></summary>
 
 This section demonstrates how the dataset was imported and loaded to `PostgreSQL` database locally before our analysis. First a database was created and then we used automation for uploading the .CSV files using `Python` on the `Jupyter Notebook`. We used the `SQLAlchemy` library to import the functions to have the files path and do the task for us. 
