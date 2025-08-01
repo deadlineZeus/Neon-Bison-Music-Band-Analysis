@@ -91,12 +91,10 @@ This section demonstrates how the dataset was imported and loaded to `PostgreSQL
 
 <div style="padding-left: 5em;">
   <details>
-    <summary><strong>Data loading onto database using Python</strong></summary>
+    <summary><strong>**Snapshot of Data Loading onto database using Python** (Click to open)</strong></summary>
     <img src="validation/loading_onto_batabase.png" alt="ABCDE">
   </details>
 </div>
-
- **[Watch the output of data loading by Python]("validation/loading_onto_batabase.png")** (right-click or Ctrl+Click to open in a new tab)
 
 You can preview the automation steps in action here:  
 🎥 **[Watch the video on YouTube](https://youtu.be/SzcM7h5wIxY?si=QEMQKyq-n09Kvpln)** (right-click or Ctrl+Click to open in a new tab)
