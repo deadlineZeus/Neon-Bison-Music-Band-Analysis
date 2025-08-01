@@ -33,7 +33,8 @@ From start to finish, the project simulates the workflow of a data-savvy tour st
 - [Final Recommendations](#final-recommendations)
 - [Technical Skills Demonstrated](#technical-skills-demonstrated)
 - [Conclusion](#conclusion)  
-- [Folder Structure](#folder-structure)  
+- [Folder Structure](#folder-structure)
+- [Future Work](#future-work)
 
 </details>
 
@@ -501,7 +502,14 @@ music-sales-analysis/
 This project showcases how relational database analysis can drive actionable music industry strategies. By analyzing purchase patterns, customer geography, genre preferences, and artist performance, bands like Neon Bison can make data-driven decisions for touring, pricing, and promotion.
 
 </details>
+```
 
 ---
 
+<a id="future-work"></a>
+<details>
+<summary><strong>Future Work</strong></summary>
 
+Future enhancements could include integrating real-time streaming data, incorporating sentiment analysis from social media to predict crowd responses, and expanding the dataset to include more recent artist performance metrics for even deeper strategic insights.
+
+</details>
