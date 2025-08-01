@@ -505,8 +505,6 @@ This project showcases how relational database analysis can drive actionable mus
 ```
 </details>
 
-<br>
-
 ---
 
 <a id="future-work"></a>
