@@ -11,7 +11,7 @@ It addresses a critical business question: `what`, `Where`, `why`, and `how` sho
 
 `General` as well as `strategic` insights identify high-potential cities, optimal tour sequences, and regional audience preferences. The project also suggests enhancements for live performances, which arrists to prefer for live shows, `targeted promotional` ideas, and `loyalty-based monetization` strategies.
 
-From start to finish, this project simulates the role of a modern data analyst — combining SQL-driven analysis, workflow automation, and visual storytelling to deliver a recommended roadmap to complete the tour.
+From start to finish, this project simulates the role of a modern data analyst — combining SQL-driven analysis, workflow automation, and visual storytelling to deliver a `recommended roadmap` to complete the tour.
 
 </details>
 
