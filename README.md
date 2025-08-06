@@ -7,9 +7,9 @@
 
 This project presents a data-driven global concert tour strategy for Neon Bison, a fictional American rock band. The primary purpose is to develop a comprehensive, insight-backed plan that serves as a recommendation dedicated to the band’s `organizer team` to come up with strategies to consider for the upcoming world tour — offering them clear, actionable strategies based on audience data.
 
-It addresses a critical business question: `Where`, `why`, and `how` should the band tour to maximize audience reach, engagement, and profitability. Drawing from a structured relational database of digital music store transactions, the analysis examines customer demographics, genre preferences, and regional demand patterns. Automated workflows streamline data preparation, ensuring efficient handling of large datasets.
+It addresses a critical business question: `Where`, `why`, and `how` should the band tour to maximize audience reach, engagement, and profitability. Drawing from a structured relational database of digital music store transactions, the analysis examines customer demographics, genre preferences, and regional demand patterns.
 
-`General` as well as `strategic` insights identify high-potential cities, optimal tour sequences, and regional audience preferences. The project also suggests enhancements for live performances, targeted promotional ideas, and `loyalty-based monetization` strategies.
+`General` as well as `strategic` insights identify high-potential cities, optimal tour sequences, and regional audience preferences. The project also suggests enhancements for live performances, which arrists to prefer for live shows, `targeted promotional` ideas, and `loyalty-based monetization` strategies.
 
 From start to finish, this project simulates the role of a modern data analyst — combining SQL-driven analysis, workflow automation, and visual storytelling to deliver a scalable, real-world tour roadmap tailored for strategic decision-making by concert organizers.
 
